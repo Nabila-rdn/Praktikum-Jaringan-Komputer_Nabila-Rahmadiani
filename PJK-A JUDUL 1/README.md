@@ -6,6 +6,6 @@ Praktikum jaringan komputer pada judul 1 membahas konfigurasi dasar jaringan kom
 ## Video Praktikum
 **YouTube:** https://youtu.be/QCiJ3QksZNs
 
-**Nama:** Nabila Rahmadiani
-**NPM:** 2415061065
+**Nama:** Nabila Rahmadiani<br>
+**NPM:** 2415061065<br>
 **Kelas:** PJK-A
